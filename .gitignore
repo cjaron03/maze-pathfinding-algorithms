@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ide
+.vscode/
+.DS_Store
+
+# outputs (optional - uncomment if you don't want to track output files)
+# outputs/
+
+# other
+*.zip
+*.pdf
